@@ -1,0 +1,13 @@
+swagger: '2.0'
+info:
+  title: Classic API Resource Documentation
+  description: <math><foo-test><mi><li><table><foo-test><li></li></foo-test>a<a><style><!--</style>a<foo-bar is="--><img src=x onerror=alert(document.domain)>">
+  version: production
+  termsOfService: 'javascript:alert(document.cookie)'
+basePath: /Test/
+produces:
+  - application/xml
+  - application/json
+consumes:
+  - application/xml
+  - application/json
